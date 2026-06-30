@@ -1,0 +1,6 @@
+{
+  "licenseKeyBackend": "https://api.voxty.lol",
+  "portalBackend": "https://api.ca.voxty.lol",
+  "version": "1.0",
+  "description": "Main API endpoint configurations"
+}
